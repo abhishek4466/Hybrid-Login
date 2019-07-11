@@ -1,4 +1,4 @@
-On the click of login button from web implement this line : testapp://code=XYZ
+On the click of login button from web implementation, call this link : testapp://code=XYZ
   
   
   
